@@ -1,0 +1,11 @@
+Module-18 Assignment, 8 August, 22'.
+Task:
+- Write a producer (topic name:example-123)
+- Write a consumer to read from the topic
+- Spawn 3 consumers, 2 of them in the same consumer group, the other one in a separate group
+
+    alpha, beta and gamma are consumers.
+Done in order to learn Kafka with GO. Under the guidance of Josh.
+
+
+
